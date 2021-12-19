@@ -1,0 +1,1932 @@
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\UAS.StaticWebAssets.xml
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\UAS.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\ref\UAS.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\UAS.pdb
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\UAS.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\UAS.pdb
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\tugas\semester 5\Pemrograman Frontend\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.csproj.AssemblyReference.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.AssemblyInfoInputs.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.AssemblyInfo.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.csproj.CoreCompileInputs.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.MvcApplicationPartsAssemblyInfo.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.RazorComponent.input.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.RazorComponent.output.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\UAS.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.TagHelpers.input.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.TagHelpers.output.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.RazorCoreGenerate.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\EJ3EA2w+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\jiRVjtjV.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\m+U7sIVs.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\u2Yx2Ouk.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\wWAX7xCa.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\5eLRtme8.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\JYWtl0m+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\xFEUKdYH.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+uAg1yrR.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\YjoAUpxt.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\a8GPXumR.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Kf01idsv.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\K+brtbxe.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\jstiHvYr.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+Kmbcbtg.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\cxb3A+0Q.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\lsFHEW04.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\NS6FrbSH.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\MEGKnCGt.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\rmYJ3R1W.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\GxS+VmBb.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\1jh5T1H0.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\HEpE79FU.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\mvcW8sLQ.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\ngkKR1fR.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\jTA3NWgT.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\J8odV9hR.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\kn+bWBzj.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\i51dMOTw.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\9fCJbRlf.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\t4fCYidi.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\qNZKW22b.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\PWohlWwR.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Piyzg+a5.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\NeQx3Xf+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Jf8Tue01.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\xw14VoB1.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\dgVQpaFc.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\iIKp3tRa.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\F31n211n.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\lDJwUo2c.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\jTiXpZHK.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\TNat1G41.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\t+jB3kqa.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\oyEHUpMb.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\SRK49sfp.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\4+a1qGb7.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\ZSYAmaZX.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\oxFyizKZ.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\O3K5iayH.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\eWQgkgoS.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\627WYgwK.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\GOf9FnZA.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Pgxypj8C.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\ecH80FEj.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\bQN4wOoc.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\RECh9yzx.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\1Sarf68w.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\l+8EgJ31.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\qNp9y9o+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\6TCxAJmI.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\saWgs5Q3.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Ic3V0d1N.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\vfb7LYfn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\4nePuclE.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Ev3QWQlK.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WFT94F+X.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\beYXWBH9.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\81lmoodD.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\SZBORi3u.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\dQBkOYVn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+KE6ZyQ1.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\glFEaNxd.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\uwzqMnl9.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WtzUCjYa.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\yopeZYyw.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\NjsLgEGX.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\c5NeSqO0.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\RmTshDZ5.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\JPBdRlgV.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Wiyd+Gwo.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\MUivGRS+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\qZbioF4E.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Bf70zF+U.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Lb5Wqq3y.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\JV851oJi.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\MsgRFwtN.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\IUgBJL1+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\4uUyh9qU.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\TblfYLFS.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\j2A3Pg2r.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\cXY6O97B.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\xFua+wh7.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\zHvMTNu3.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\mHSJhjtF.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\UXJ+AxEs.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+Yoy55KL.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\So310q8i.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\dxTIYcv2.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\YXdjyN6B.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\cmqAurQn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WoOJ+5nX.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WTs3L8+s.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\l81GOv3G.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Ep+dVcX1.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\t3uCGH94.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Gsib1feq.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Or0HbG80.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\iB7jmN36.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\82kBKQlI.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\hSvDSIjk.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\r2yabg87.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\S8us3LOG.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\YWvYecTC.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\CfuiD+b4.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\cPvGOMcp.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\9aT3+2VE.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\SzD0T+yK.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\KMcETCfu.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\7Y71Qbiz.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\yi52CkJn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\4fA8eDmn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\56tCixUO.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\uXI7woxB.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\vfkYNMwY.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\KEGMNVr4.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\xutkQFIS.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\isEfQdAX.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\bUeKDOqw.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\8gdYuB6Z.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\dYUP+1oS.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+SlRVt5K.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\9G41osie.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\FGqcrbiy.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\UDNrcVH7.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\MsqS2R+4.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\JuOJHxs+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\nJ+cCRg0.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\CGfoltXd.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\0LLl4dvF.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\5bWNH9x6.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\3UTbr+jW.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\rpHmaQ2+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+jjKT1Zk.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\jrBYCrPE.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\ipoitrM7.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+H+NRyuf.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\9667+PRr.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\gYeqS2bJ.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+ud8Thi3.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\oiYqHvgO.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\3B5LoHGX.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WUcWwMjn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\lBcflXg2.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\gS7mSc12.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\sT76uilK.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\XkMGlWEC.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\OnJCYcYx.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\b0u6dkuB.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\wSxjWbLz.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\YqUnwNw1.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+0TV4pG+.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Pov49ApP.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\AVUQSorH.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\s5ZzE86Q.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\3RHDxvEU.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\G4EFm84O.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\SmhlEc85.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\kbXKD97j.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\ypaJOluy.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\xt1ci4mW.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\uTQRkgAf.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\bfi+d9iU.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WBELA1AB.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\q+v3VXp2.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\N4Ydc8B4.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\m+cjPkBn.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\fwe5IXPG.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Ih3FvlCD.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Q63zsBTK.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\m8yhuV5R.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Of5eQxnV.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\Tdjb19Rt.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\2fjFRxZV.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\IyEWVfYS.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\+SzY28bH.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\0wf2N3ar.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\loj4D6L9.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\l5C1HxFY.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\c2QDySHZ.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\WJkh1W8T.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\3AGjZCec.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\PfZBJ5wJ.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\4M7MDHUk.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\build-gz\N7V+G6Dt.gz
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\staticwebassets\UAS.StaticWebAssets.Manifest.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\staticwebassets\UAS.StaticWebAssets.xml
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\scopedcss\bundle\UAS.styles.css
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\scopedcss\projectbundle\UAS.bundle.scp.css
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.RazorTargetAssemblyInfo.cache
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.csproj.CopyComplete
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\ref\UAS.dll
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\UAS.pdb
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPage.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Detail.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\Detail.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudent.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\EditStudent.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Enrollment.razor.g.cs
+D:\tugas\semester 5\Pemrograman Frontend\UAS\obj\Debug\net5.0\Razor\Pages\Enrollment.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\UAS.StaticWebAssets.xml
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\UAS.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\ref\UAS.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\UAS.pdb
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\UAS.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\UAS.pdb
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\MATAKULIAH\FRONTEND\UAS\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.csproj.AssemblyReference.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.AssemblyInfoInputs.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.AssemblyInfo.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.csproj.CoreCompileInputs.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.MvcApplicationPartsAssemblyInfo.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.RazorComponent.input.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Detail.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Enrollment.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPage.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.RazorComponent.output.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\RazorDeclaration\UAS.dll
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.TagHelpers.input.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.TagHelpers.output.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.RazorCoreGenerate.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\Detail.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\EditStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\Enrollment.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\0oG9B5xU.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\z+Gg+VE5.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\V9ooosnT.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Zv+8tKBX.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\1zCHhuaz.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Bp5DQh3X.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\8Miwk5JH.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\nn+Y+4k5.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\hqx1QLa6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\YWC193Tb.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Wa9azjGJ.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\3PeAZe4O.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\AoPEnQlO.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\yxjYUDLa.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\adETCbva.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\k6sO+D+s.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\iPOK0QnR.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\aq9yvFyg.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\1PERv1dm.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\v7Z6Hh7C.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\QFJnDRu+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\h8qe3ML9.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\tS1cuJ1e.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ivEO6+K4.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\LypPwm9g.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ZuJhjKU7.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\n+CnnNBb.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\XPGad04u.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\3jQIke39.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\61CnVmms.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\HkF2tEn4.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\YZjCTR+e.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\DUBXaRs6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\mybpe+ZX.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\jbndSqOG.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ceCWgTX5.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\X0ebTF+a.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\n0iLBqTE.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\VH+JUJSs.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\7WPXVCqm.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\s2VKoqrl.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\AhpYZszu.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\A+TMW+HA.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\An33zRCJ.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\i73ymyY8.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\cvN0dPT6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Bex2e3qu.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\gy4nyHRI.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\gH5NDAE0.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\jLlXAG7P.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ILfYPIKX.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\UEqizQRy.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Lrtjn9a+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\d6RIQdpy.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\EB7Rbe1Y.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\epLM0czp.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\DPrIF+1q.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\PP+Go8pW.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Job9AJEz.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\PfXTEx3+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\iA9qsYec.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Mrv+DntE.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\+JJRFC+i.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\EtwGNNsY.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\+g7oYOJD.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\qoLSNyv9.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\D3GIhrOx.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Ae++yd0v.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\PERwwFkp.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Ogn56nWw.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\4bEfcOND.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ou3BLIqR.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\T7qAcfkl.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\LM+iaXsS.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\mZsU+TYK.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\TFSS7e+b.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\wem8oY3u.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Gw8IaGTq.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\jiclWhSG.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\RCUT3Q2o.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\VVh2bGxT.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\TL71Rvr6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\XEA2AY9E.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\+KsbH+mr.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\kQ0MUpse.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\LI93Jxwb.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\5MJysPx+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\4c02KMWh.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\cpp+vHwq.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\4Y8IJC+h.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\utAspDum.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\0ZUPasBe.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ONlsmm2z.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\z3exc+k+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\VgzufY55.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\++e5jWgH.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\poK5LbPM.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\p7YeYr4S.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\5k+22ly7.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ze6AoxSt.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\a77E3Mr7.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\phDdF95U.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\A5mGecBu.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\EiAv8ozw.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\p88ZzlYR.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\5vdMg4S6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\FNXxSpkn.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\3G4Osckw.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Dzz464be.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\cqnOYhjk.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\tBj4VVEF.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\uXvZTw54.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\+7q6J3Wv.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Iuo0+njx.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\KzpdzQNT.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\BaAILQkF.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\dFECKSCD.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\uR19sgjs.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\5i4dxIjl.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Z4HmGPGZ.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\+E6RQxyv.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\2e33yL9a.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\OgUdQnKt.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\wecLfP2f.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\lgOq2T02.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\PncEP3Ye.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\IHbuZ+UG.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\MGpVVdhI.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\f+6TelvH.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Ay+X+e2x.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\tYVVCxAE.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\OxQuybdH.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\TxGDaOKL.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\lyO+ygpF.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\5QCNcgLb.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\kG3wFKv+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\fue88c3q.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\U28oV8M8.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Hf9dZ55t.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\xKEv8zpk.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\xaEDrWfL.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\YfsZ5Zgj.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\d3UJro6T.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Qyd5Z1Jl.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\p4FtAS7t.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\KvEs+VpD.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\t29KllH6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\S8xCEXdI.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\VcNC1ep2.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\o1xdlTjc.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\FsoM4++0.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\DyryOXMb.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\+XFTFDPE.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\jTZVJjo1.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\3KvEg3fH.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\pCuYex+k.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\6cZFo1tR.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\skbU41mM.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\LZl+exiN.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\6uqAKHgY.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\NWQvj9vp.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\4kkqF3yC.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ZlB8IyBP.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\BU+Iv2ml.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\rydlNdxU.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\2l58KbN+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\ZG1ryiu6.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\w6OnSsPF.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\o9Tka8IR.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\O+gMLSlp.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\DRKokOlD.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\De7UJK1S.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\EN2app++.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\WHSXerTA.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\rmz+hZdu.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\uiohpyZu.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\i+0RAax1.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\Fy7yPST0.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\YAR+zj7F.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\zCDpj25k.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\GlV+IOl2.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\1E+EcwU0.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\6nG4lLVx.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\bFNhi3oY.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\hcknfjy9.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\JYOffLqF.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\RR678Wsz.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\OhzogNBu.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\PsUTBvzk.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\zNebUeD+.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\pbOFq+OS.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\4QGRhLUp.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\2xQhC6+j.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\J920Z+LT.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\build-gz\GsiRn+m5.gz
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\staticwebassets\UAS.StaticWebAssets.Manifest.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\staticwebassets\UAS.StaticWebAssets.xml
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\scopedcss\bundle\UAS.styles.css
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\scopedcss\projectbundle\UAS.bundle.scp.css
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.RazorTargetAssemblyInfo.cache
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.csproj.CopyComplete
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.dll
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\ref\UAS.dll
+C:\MATAKULIAH\FRONTEND\UAS\obj\Debug\net5.0\UAS.pdb
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\UAS.StaticWebAssets.xml
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\UAS.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\ref\UAS.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\UAS.pdb
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\UAS.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\UAS.pdb
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.csproj.AssemblyReference.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.AssemblyInfoInputs.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.AssemblyInfo.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.csproj.CoreCompileInputs.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.MvcApplicationPartsAssemblyInfo.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.RazorComponent.input.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\Detail.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\Enrollment.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPage.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.RazorComponent.output.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\RazorDeclaration\UAS.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.TagHelpers.input.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.TagHelpers.output.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.RazorCoreGenerate.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\Detail.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\EditStudent.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\Enrollment.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\0oG9B5xU.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\z+Gg+VE5.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\V9ooosnT.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Zv+8tKBX.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\1zCHhuaz.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Bp5DQh3X.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\8Miwk5JH.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\nn+Y+4k5.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\hqx1QLa6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\YWC193Tb.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Wa9azjGJ.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\3PeAZe4O.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\AoPEnQlO.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\yxjYUDLa.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\adETCbva.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\k6sO+D+s.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\iPOK0QnR.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\aq9yvFyg.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\1PERv1dm.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\v7Z6Hh7C.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\QFJnDRu+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\h8qe3ML9.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\tS1cuJ1e.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ivEO6+K4.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\LypPwm9g.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ZuJhjKU7.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\n+CnnNBb.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\XPGad04u.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\3jQIke39.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\61CnVmms.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\HkF2tEn4.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\YZjCTR+e.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\DUBXaRs6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\mybpe+ZX.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\jbndSqOG.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ceCWgTX5.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\X0ebTF+a.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\n0iLBqTE.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\VH+JUJSs.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\7WPXVCqm.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\s2VKoqrl.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\AhpYZszu.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\A+TMW+HA.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\An33zRCJ.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\i73ymyY8.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\cvN0dPT6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Bex2e3qu.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\gy4nyHRI.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\gH5NDAE0.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\jLlXAG7P.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ILfYPIKX.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\UEqizQRy.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Lrtjn9a+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\d6RIQdpy.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\EB7Rbe1Y.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\epLM0czp.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\DPrIF+1q.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\PP+Go8pW.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Job9AJEz.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\PfXTEx3+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\iA9qsYec.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Mrv+DntE.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\+JJRFC+i.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\EtwGNNsY.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\+g7oYOJD.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\qoLSNyv9.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\D3GIhrOx.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Ae++yd0v.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\PERwwFkp.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Ogn56nWw.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\4bEfcOND.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ou3BLIqR.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\T7qAcfkl.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\LM+iaXsS.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\mZsU+TYK.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\TFSS7e+b.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\wem8oY3u.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Gw8IaGTq.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\jiclWhSG.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\RCUT3Q2o.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\VVh2bGxT.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\TL71Rvr6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\XEA2AY9E.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\+KsbH+mr.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\kQ0MUpse.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\LI93Jxwb.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\5MJysPx+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\4c02KMWh.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\cpp+vHwq.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\4Y8IJC+h.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\utAspDum.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\0ZUPasBe.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ONlsmm2z.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\z3exc+k+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\VgzufY55.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\++e5jWgH.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\poK5LbPM.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\p7YeYr4S.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\5k+22ly7.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ze6AoxSt.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\a77E3Mr7.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\phDdF95U.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\A5mGecBu.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\EiAv8ozw.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\p88ZzlYR.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\5vdMg4S6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\FNXxSpkn.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\3G4Osckw.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Dzz464be.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\cqnOYhjk.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\tBj4VVEF.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\uXvZTw54.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\+7q6J3Wv.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Iuo0+njx.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\KzpdzQNT.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\BaAILQkF.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\dFECKSCD.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\uR19sgjs.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\5i4dxIjl.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Z4HmGPGZ.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\+E6RQxyv.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\2e33yL9a.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\OgUdQnKt.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\wecLfP2f.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\lgOq2T02.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\PncEP3Ye.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\IHbuZ+UG.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\MGpVVdhI.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\f+6TelvH.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Ay+X+e2x.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\tYVVCxAE.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\OxQuybdH.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\TxGDaOKL.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\lyO+ygpF.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\5QCNcgLb.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\kG3wFKv+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\fue88c3q.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\U28oV8M8.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Hf9dZ55t.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\xKEv8zpk.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\xaEDrWfL.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\YfsZ5Zgj.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\d3UJro6T.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Qyd5Z1Jl.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\p4FtAS7t.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\KvEs+VpD.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\t29KllH6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\S8xCEXdI.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\VcNC1ep2.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\o1xdlTjc.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\FsoM4++0.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\DyryOXMb.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\+XFTFDPE.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\jTZVJjo1.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\3KvEg3fH.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\pCuYex+k.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\6cZFo1tR.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\skbU41mM.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\LZl+exiN.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\6uqAKHgY.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\NWQvj9vp.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\4kkqF3yC.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ZlB8IyBP.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\BU+Iv2ml.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\rydlNdxU.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\2l58KbN+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\ZG1ryiu6.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\w6OnSsPF.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\o9Tka8IR.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\O+gMLSlp.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\DRKokOlD.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\De7UJK1S.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\EN2app++.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\WHSXerTA.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\rmz+hZdu.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\uiohpyZu.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\i+0RAax1.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\Fy7yPST0.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\YAR+zj7F.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\zCDpj25k.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\GlV+IOl2.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\1E+EcwU0.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\6nG4lLVx.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\bFNhi3oY.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\hcknfjy9.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\JYOffLqF.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\RR678Wsz.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\OhzogNBu.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\PsUTBvzk.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\zNebUeD+.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\pbOFq+OS.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\4QGRhLUp.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\2xQhC6+j.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\J920Z+LT.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\build-gz\UWKBpPFj.gz
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\staticwebassets\UAS.StaticWebAssets.Manifest.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\staticwebassets\UAS.StaticWebAssets.xml
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\scopedcss\bundle\UAS.styles.css
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\scopedcss\projectbundle\UAS.bundle.scp.css
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.RazorTargetAssemblyInfo.cache
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.csproj.CopyComplete
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\ref\UAS.dll
+C:\MATAKULIAH\FRONTEND\CloneGIT\BlazorUas\obj\Debug\net5.0\UAS.pdb
